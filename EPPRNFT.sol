@@ -11,7 +11,7 @@ contract EPPRNFT is ERC721URIStorage {
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
 
-    constructor() ERC721("EPPR NFT", "MI PRIMER NFT") {}
+    constructor() ERC721("NFT EPPR", "MI NFT DE LA CLASE ESPECIAL") {}
 
     event Mint(
         address indexed sender,
