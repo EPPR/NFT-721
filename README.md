@@ -7,4 +7,4 @@ JSON URI:
 > https://raw.githubusercontent.com/EPPR/NFT-721/main/meta.json
 
 IMAGE URI:
-> https://raw.githubusercontent.com/EPPR/NFT-721/main/NFTeppr.png
+> https://drive.google.com/file/d/1GPQhjg9WjPNDKCekwaUYqWb4A7VNzdN-CQ/view?usp=drive_link
